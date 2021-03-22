@@ -1,3 +1,4 @@
 sample	status	group
 metagenome-kmer-profiler-01	ready	control
 metagenome-kmer-profiler-02	review	case
+metagenome-kmer-profiler-03	queued	validation
